@@ -1,0 +1,3 @@
+# Fun fact about git: you cannot add empty directories to a repository
+# I want this directory to have this name and also have basically nothing in it. Thanks git.
+!.gitignore
